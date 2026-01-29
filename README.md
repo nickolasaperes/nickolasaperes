@@ -8,4 +8,4 @@
 📺 [Linkedin](https://www.linkedin.com/in/nickolasaperes/) <br>
 💬 Email - nickolasaperes@gmail.com <br>
 
-🌱 Currently building international products using Python and Typescript
+🌱 Currently building products using Python and Typescript
